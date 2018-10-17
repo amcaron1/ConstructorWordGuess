@@ -10,6 +10,7 @@
     - The game is over when the user correctly guesses all of the letters in the movie name or when 15 guesses have been made.
 
 - Screen Shots
+    - C:\Users\Owner\Documents\codingBootcamp\homeworks\ConstructorWordGuess\images\ConstructionWordGuess.JPG
 
 
 - Key or new skills
